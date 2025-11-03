@@ -30,7 +30,7 @@
 
 ## Professional Experience
 
-### <img src="https://www.pngfind.com/pngs/m/174-1747662_social-good-hackathon-capgemini-invent-logo-hd-png.png" width="20" height="20"/> DevOps Intern Trainee | Capgemini, India
+### <img src="https://www.pngfind.com/pngs/m/174-1747662_social-good-hackathon-capgemini-invent-logo-hd-png.png" width="20" height="20"/> DevOps Intern Trainee | Capgemini, India Feb 2025 - Oct 2025
 
 - Completed comprehensive DevOps training program covering **CI/CD pipelines**, **containerization**, and **cloud infrastructure**
 - Gained hands-on experience with **Docker** and **Kubernetes** in lab environments
