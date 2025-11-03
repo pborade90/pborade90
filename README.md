@@ -41,14 +41,14 @@
 
 ## Featured Projects
 
-### <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20" height="20"/> [Gather.io - Developer Events Platform](https://github.com/pborade90/gather-io)
+### <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20" height="20"/> [Gather.io - Developer Events Platform](https://github.com/pborade90/gather.io)
 
 - Engineered full-stack **Progressive Web Application** using Next.js 16 and TypeScript
 - Implemented **server-side rendering** and API routes for enhanced performance
 - Developed **real-time search** with advanced filtering capabilities
 - **Responsive mobile-first design** with optimized deployment on Netlify
 
-### <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20" height="20"/> [TrackMyBudgets - Personal Finance App](https://github.com/pborade90/trackmybudgets)
+### <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20" height="20"/> [TrackMyBudgets - Personal Finance App](https://github.com/pborade90/track-my-budgets)
 
 - Developed **Progressive Web App** for budget tracking with dynamic data visualization
 - Implemented **expense categorization** and budget progress tracking
