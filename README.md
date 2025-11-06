@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prathameshborade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pborade90@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathameshborade.netlify.app/)
 
 </div>
 
@@ -116,7 +116,7 @@
 I'm always open to discussing  **full-stack development**, **DevOps**, and **new opportunities**
 
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pborade90@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link)
+[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prathameshborade.netlify.app/)
 
 </div>
 
